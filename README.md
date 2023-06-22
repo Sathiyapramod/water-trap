@@ -3,8 +3,8 @@
 | Command | Code | Link |
 | --- | --- | --- |
 | `Water Trap` | <a href="https://github.com/Sathiyapramod/water-trap" target="_blank">View Code</a> | <a href="https://roaring-pasca-e1b201.netlify.app/">View Link</a> |
-| `IMDB front-end` | <a href="https://github.com/Sathiyapramod/imdb-clone-front-end" target="_blank">View Code</a> | |
-| `IMDB back-end` | <a href="https://github.com/Sathiyapramod/imdb-clone-backend" target="_blank">View Code</a> | <a href="https://imdb-clone-backend.vercel.app/">View Link</a> |
+| `IMDB front-end` | <a href="https://github.com/Sathiyapramod/imdb-clone-front-end" target="_blank">View Code</a> | <a href="https://imdb-clone-backend.vercel.app/">View Link</a> |
+| `IMDB back-end` | <a href="https://github.com/Sathiyapramod/imdb-clone-backend" target="_blank">View Code</a> |  |
 
 
 ## CSS Files 
